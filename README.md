@@ -16,4 +16,4 @@ Looking for my first junior backend role. Czech, international or remote, all go
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white)
 
-I speak Ukrainian, Russian, Czech and English.
+I speak Czech, English, Ukrainian and Russian.
